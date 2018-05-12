@@ -1,0 +1,47 @@
+_repo: Legends-of-the-Bastille_43231
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Sardou, Victorien
+    alias: Sardou, V. (Victorien)
+    birthdate: 1831
+    deathdate: 1908
+    gutenberg_agent_id: '8731'
+    url: http://www.gutenberg.org/2009/agents/8731
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Victorien_Sardou
+    - http://en.wikipedia.org/wiki/Victorien_Sardou
+  translator:
+    agent_name: Maidment, George
+    gutenberg_agent_id: '42083'
+    url: http://www.gutenberg.org/2009/agents/42083
+covers:
+- cover_type: archival
+  image_path: 43231-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Funck-Brentano, Frantz
+    aliases:
+    - Funck-Brentano, Jacques Chretien Frantz Seraphicus
+    - Funck-Brentano, Jacques Chrétien Frantz Seraphicus
+    birthdate: 1862
+    deathdate: 1947
+    gutenberg_agent_id: '42082'
+    url: http://www.gutenberg.org/2009/agents/42082
+description: ''
+gutenberg_issued: '2013-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43231'
+  lccn: '01024266'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bastille'
+- !lcc 'DC'
+- !lcsh 'Latude, Henri Masers de, 1725-1805'
+- !lcsh 'Mattioli, Ercole Antonio, conte, 1640-1703'
+title: Legends of the Bastille
+url: http://www.gutenberg.org/ebooks/43231
